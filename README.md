@@ -2,6 +2,8 @@ VERSION 2.0!!!
 
 <img width="894" height="670" alt="image" src="https://github.com/user-attachments/assets/c6d09fc1-0787-4ee4-8a33-a7a6b1b71d4d" />
 
+<img width="902" height="806" alt="Screenshot 2026-03-11 162030" src="https://github.com/user-attachments/assets/adb1e597-6edb-48d4-a655-8aed56024b46" />
+
 How to save this project to Linux:
 
 1- git clone https://github.com/muhammadkmal27/Project-XSS-Linux---V2.git
