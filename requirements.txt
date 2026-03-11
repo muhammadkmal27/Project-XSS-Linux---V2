@@ -1,0 +1,10 @@
+colorama
+rich
+requests
+prompt_toolkit
+bs4
+aiohttp
+selenium
+webdriver_manager
+
+
