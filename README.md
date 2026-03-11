@@ -2,7 +2,7 @@ Version 2.0
 
 How to save this project to Linux:
 
-1- git clone https://github.com/muhammadkmal27/Project-XSS-Linux.git
+1- git clone https://github.com/muhammadkmal27/Project-XSS-Linux---V2.git
 
 2- cd Project-XSS-Linux/
 
