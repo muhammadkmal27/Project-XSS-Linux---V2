@@ -36,13 +36,13 @@ pip install -r requirements.txt
 
 4- To Run c_breakers:
 
-python c_breakers.py
+python c_breakers2.py
 
 How to use after installing all the requirements:
 
 1- source /home/kali/akmal/bin/activate
 
-2- python c_breakers.py
+2- python c_breakers2.py
 
 Note:
 
