@@ -51,6 +51,7 @@ Our tool uses "URL PARAMETERS," not regular URLs. If you don’t know what URL p
 Make sure you use the three tools I have listed to obtain URL parameters before using our tool:
 
 1- subfinder
+
 How to download: 
 ```
 sudo apt install subfinder
@@ -66,6 +67,7 @@ nano sub.txt
 (press Ctrl + O to save)
 
 2- httpx-toolkit
+
 How to download: 
 ```
 sudo apt install httpx-toolkit
